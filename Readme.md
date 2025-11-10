@@ -25,3 +25,7 @@ Then, outline aggregates, events, and integration strategies for a production-sc
 ### 3.2 Subdomains
 
 ## 4. Bounded Contexts and Their Responsibilities
+
+|Bounded Context   | Description   |Entities/Aggregates   | Mapped Service   |
+|---|---|---|---|
+
